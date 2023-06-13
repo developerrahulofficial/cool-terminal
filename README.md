@@ -1,4 +1,4 @@
-# cool-retro-term
+# cool-terminal
 
 |> Default Amber|C:\ IBM DOS|$ Default Green|
 |---|---|---|
